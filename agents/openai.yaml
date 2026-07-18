@@ -1,0 +1,7 @@
+interface:
+  display_name: "First Law"
+  short_description: "从第一性原理深度拆解复杂概念、产品、组织系统与商业命题"
+  default_prompt: "Use $first-law to deeply deconstruct this topic from first principles."
+
+policy:
+  allow_implicit_invocation: true
